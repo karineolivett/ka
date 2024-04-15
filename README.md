@@ -1,1 +1,1 @@
-<a href="https://github.com/karineolivett/ka.git">LavaCar</a>
+<a href="https://karineolivett.github.io/ka/">LavaCar</a>
