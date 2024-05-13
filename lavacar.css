@@ -46,3 +46,30 @@ nav a:hover{
     border: 3px solid #972626;
     border-radius: 10px;
 }
+.produtos li :hover{
+    border: #972626;
+    font-size: 40px;
+}
+.produtos li :hover h2{ss
+font-size: 34px;
+}
+.produtos h2{
+    font-size: 30px;
+    font-weight: bold;
+}
+.produtos-descricao{
+    font-size: 25px;
+}
+.produtos li :active{
+    font-size: 40px;
+}
+.produtos-preco{
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+footer{
+    padding: 0px;
+    text-align: center;
+    background: #972626;
+}
